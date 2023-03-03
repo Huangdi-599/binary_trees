@@ -1,7 +1,5 @@
 # C - Binary trees
 
-![](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_tree.jpg)
-
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files for all tasks. Provided by ALX.
